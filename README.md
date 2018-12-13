@@ -1,6 +1,6 @@
 # vhdl
 
-this is something i made in work for university , helping some classmate , my work was make a IEEE float divider
+this is something i made in work for university , helping some classmate , my work was make a IEEE float divider with 32 bits
 but to help some classmate i made , 64 bits and 128 bits , the 128 i comment the rem , because use too much logic ports , but
 will only complet with the rem , mod or something like that...
 
